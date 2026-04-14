@@ -1,6 +1,5 @@
 # prova0
 Atividade Prática 1.2: Implementação e Governança
-```markdown
 # Visão Computacional com Python e OpenCV
 
 Este repositório contém a implementação dos exercícios e conceitos fundamentais do livro **"Introdução à Visão Computacional com Python e OpenCV"**, adaptados para execução no ambiente **Google Colab**.
