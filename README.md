@@ -41,7 +41,7 @@ from google.colab.patches import cv2_imshow
 Se você tiver muitas imagens em uma pasta, é mais rápido clonar o repositório todo de uma vez.
 
 ```python
-!git clone https://github.com/usuario/nome-do-repositorio.git
+!git clone https://github.com/Marck-Anthony/prova0.git
 Após rodar isso, o Colab criará uma pasta com o nome do repositório.
 ```
 Para acessar as imagens, use o caminho: '/content/prova0/img/1.png'.
