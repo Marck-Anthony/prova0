@@ -10,7 +10,7 @@ O projeto aborda desde a manipulação básica de pixels até técnicas de filtr
 
 Para facilitar a execução sem a necessidade de configurar um ambiente local, você pode abrir o projeto diretamente no Google Colab clicando no botão abaixo:
 
-[![Open In Colab](https://colab.research.google.com/drive/1GiBlEzF6rEf3Ec239kHeKWwwLh_in5EJ?usp=sharing)
+![Open In Colab](https://colab.research.google.com/drive/1GiBlEzF6rEf3Ec239kHeKWwwLh_in5EJ?usp=sharing)
 ---
 
 ## 🛠️ Instalação e Requisitos
